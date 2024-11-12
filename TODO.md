@@ -1,1 +1,1 @@
-Ahorita no aparece el wesbite cunado compilas, sospecho q hay un problema con las rutas. App.js es donde se hacen las rutas y compilacion . 
+
